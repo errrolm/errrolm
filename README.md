@@ -3,6 +3,6 @@
 
 # Stats:
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ColdEagle13&theme=github_dark&hide_border=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColdEagle13&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=noterrolm&theme=github_dark&hide_border=true"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noterrolm&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
