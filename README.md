@@ -1,1 +1,3 @@
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=errrolm&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/demo/preview.php?user=errrolm&theme=github-dark&hide_border=true" alt="GitHub Streak">
+</p>
