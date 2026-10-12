@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/demo/preview.php?user=errrolm&theme=github-dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://ghstats.dev/api/card?username=errrolm&custom_title=cause+why+not" alt="GitHub Stats Card" />
 </p>
